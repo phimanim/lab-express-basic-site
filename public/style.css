@@ -1,0 +1,18 @@
+
+body {
+    background-color: #f4eee7 ;
+    margin: 0px 80px;
+    color: #61492c;
+}
+
+a {
+    text-decoration: none;
+    color: #61492c;
+    list-style-type: none;
+}
+
+.menu {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
